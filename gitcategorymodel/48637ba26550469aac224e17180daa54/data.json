@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "eng_UK", 
+        "title": "Hygiene", 
+        "slug": "hygiene", 
+        "source": null, 
+        "featured_in_navbar": false, 
+        "id": "48637ba26550469aac224e17180daa54"
+    }, 
+    "model": "GitCategoryModel"
+}
