@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "eng_UK", 
+        "title": "HIV", 
+        "slug": "hiv", 
+        "source": null, 
+        "featured_in_navbar": false, 
+        "id": "adf738c93fee45d9b6b345085cd2f1f4"
+    }, 
+    "model": "GitCategoryModel"
+}
