@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "eng_UK", 
+        "title": "Malaria", 
+        "slug": "malaria", 
+        "source": null, 
+        "featured_in_navbar": false, 
+        "id": "837930283a3544118cb086073bae38b8"
+    }, 
+    "model": "GitCategoryModel"
+}
