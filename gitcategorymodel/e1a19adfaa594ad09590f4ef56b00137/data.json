@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "eng_UK", 
+        "title": "Timing Births", 
+        "slug": "timing-births", 
+        "source": null, 
+        "featured_in_navbar": false, 
+        "id": "e1a19adfaa594ad09590f4ef56b00137"
+    }, 
+    "model": "GitCategoryModel"
+}
