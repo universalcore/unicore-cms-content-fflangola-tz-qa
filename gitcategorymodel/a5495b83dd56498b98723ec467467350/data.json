@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "eng_UK", 
+        "title": "Child Protection", 
+        "slug": "child-protection", 
+        "source": null, 
+        "featured_in_navbar": false, 
+        "id": "a5495b83dd56498b98723ec467467350"
+    }, 
+    "model": "GitCategoryModel"
+}
