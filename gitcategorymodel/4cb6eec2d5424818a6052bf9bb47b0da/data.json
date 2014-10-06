@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "eng_UK", 
+        "title": "Breastfeeding", 
+        "slug": "breastfeeding", 
+        "source": null, 
+        "featured_in_navbar": false, 
+        "id": "4cb6eec2d5424818a6052bf9bb47b0da"
+    }, 
+    "model": "GitCategoryModel"
+}
