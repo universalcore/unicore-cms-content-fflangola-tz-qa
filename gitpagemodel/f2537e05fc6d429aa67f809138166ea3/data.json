@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "", 
+        "language": "eng_UK", 
+        "title": "Facts for Life saves lives!", 
+        "primary_category": null, 
+        "created_at": "2014-10-07T10:18:56+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-10-07T10:44:54.584043+00:00", 
+        "linked_pages": [], 
+        "slug": "about", 
+        "content": "Each year, around 9 million children die from preventable and treatable illnesses before reaching their fifth birthday. Many die during their first year of life. Countless more children live in precarious situations and face diminished futures. Facts for Life provides vital messages and information for mothers, fathers, other family members and caregivers and communities to use in changing behaviours and practices that can save and protect the lives of children and help them grow and develop to their full potential.\r\n\r\nThis version of Facts for Life builds on the three previous editions, which have been helping families and communities around the world since 1989.\r\n\r\nFacts for Life is a trusted resource that is written in easy-to-understand language. Previous versions were translated into 215 languages. Users of this fourth edition are encouraged to be innovative in finding ways to extend the reach of the Facts for Life messages to help families and communities realize the rights of children and women everywhere. If you translate all or part of the book, or know of translations into other languages, share them with us and we will post them on the Facts for Life site!\r\n\r\n", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "id": "f2537e05fc6d429aa67f809138166ea3"
+    }, 
+    "model": "GitPageModel"
+}
