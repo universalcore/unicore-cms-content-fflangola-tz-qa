@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "swh_TZ", 
+        "title": "Chanjo", 
+        "slug": "chanjo", 
+        "source": null, 
+        "position": null, 
+        "featured_in_navbar": false, 
+        "id": "93ec69ca96a04ec099074b611e4b92ff"
+    }, 
+    "model": "GitCategoryModel"
+}
