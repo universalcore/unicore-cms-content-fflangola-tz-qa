@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "Magonjwa ya kikohozi na mafua", 
+        "language": "eng_UK", 
+        "title": "Magonjwa ya kikohozi na mafua", 
+        "primary_category": "e69d489411004b33842a2e91b14592d9", 
+        "created_at": "2014-10-08T16:50:11.484966+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-10-08T16:50:11.485280+00:00", 
+        "linked_pages": [], 
+        "slug": "magonjwa-ya-kikohozi-na-mafua", 
+        "content": "Kwa watoto wengi, magonjwa ya kikohozi na mafua hupona yenyewe bila kutumia dawa. Hata hivyo endapo mtoto mwenye kikohozi na homa anaonyesha dalili za kupumua harakaharaka au kwa shida, hiyo ni hali ya hatari kwa mtoto hivyo inabidi apelekwa hospitali bila kucheleweshwa.", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "id": "cea01c58b7e8473a8affaa68361f48d2"
+    }, 
+    "model": "GitPageModel"
+}
