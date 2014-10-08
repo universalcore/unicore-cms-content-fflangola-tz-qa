@@ -5,6 +5,7 @@
         "title": "Immunization", 
         "slug": "immunization", 
         "source": null, 
+        "position": 8, 
         "featured_in_navbar": false, 
         "id": "2e36609ab32d4670945ae304501a65cc"
     }, 
