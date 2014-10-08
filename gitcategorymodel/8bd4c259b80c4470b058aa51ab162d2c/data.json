@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "swh_TZ", 
+        "title": "VVU (Virusi Vinavyodhoofisha kinga ya mwili)", 
+        "slug": "vvu-virusi-vinavyodhoofisha-kinga-ya-mwili", 
+        "source": null, 
+        "position": null, 
+        "featured_in_navbar": false, 
+        "id": "8bd4c259b80c4470b058aa51ab162d2c"
+    }, 
+    "model": "GitCategoryModel"
+}
