@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "Kuzuia magonjwa", 
+        "language": "eng_UK", 
+        "title": "Kuzuia magonjwa", 
+        "primary_category": "ef4606ccfc624d1496c85272bf48e55b", 
+        "created_at": "2014-10-08T16:52:24.189266+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-10-08T16:52:24.189650+00:00", 
+        "linked_pages": [], 
+        "slug": "kuzuia-magonjwa", 
+        "content": "Magonjwa mengi huweza kuzuilika kwa njia ya kudumisha usafi: kunawa mikono kwa sabuni na maji (au kwa kitu kingine kinachoondosha uchafu kama vile majivu na maji) baada ya kutoka chooni au kumfuta mtoto aliyejisaidia kwa karatasi au kitambaa safi na laini, kutupa kinyesi mbali na maeneo ya michezo, maeneo ya kukaa, na vyanzo vya maji, kunawa mikono kabla ya kushika chakula, kutumia maji salama, kutibu au kuchemsha maji ya kunywa ambayo hayatoki katika chanzo salama, na kutunza vyakula na maji katika hali ya usafi.", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "id": "ce26918634394ad385864d8c42548709"
+    }, 
+    "model": "GitPageModel"
+}
