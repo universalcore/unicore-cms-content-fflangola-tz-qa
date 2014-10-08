@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "eng_UK", 
+        "title": "Safe Motherhood and Newborn Health", 
+        "slug": "safe-motherhood-and-newborn-health", 
+        "source": null, 
+        "featured_in_navbar": false, 
+        "id": "21ce16986d32485e9c2663797f795ac8"
+    }, 
+    "model": "GitCategoryModel"
+}
