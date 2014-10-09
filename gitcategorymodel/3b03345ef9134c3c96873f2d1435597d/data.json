@@ -5,6 +5,7 @@
         "title": "Malaria", 
         "slug": "malaria", 
         "source": null, 
+        "position": 10, 
         "featured_in_navbar": false, 
         "id": "3b03345ef9134c3c96873f2d1435597d"
     }, 
