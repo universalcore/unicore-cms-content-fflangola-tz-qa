@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "swh_TZ", 
+        "title": "Magonjwa ya kikohozi na mafua", 
+        "slug": "magonjwa-ya-kikohozi-na-mafua", 
+        "source": null, 
+        "position": null, 
+        "featured_in_navbar": false, 
+        "id": "25034a2ea31c49159c5c0323393c89a6"
+    }, 
+    "model": "GitCategoryModel"
+}
