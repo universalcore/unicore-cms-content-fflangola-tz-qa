@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "swh_TZ", 
+        "title": "Afya ya kinamama na watoto", 
+        "slug": "afya-ya-kinamama-na-watoto", 
+        "source": null, 
+        "position": null, 
+        "featured_in_navbar": false, 
+        "id": "02d202269ea247c1aae3e3579e0bc77e"
+    }, 
+    "model": "GitCategoryModel"
+}
