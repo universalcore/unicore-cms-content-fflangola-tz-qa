@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "It is safe to immunize a child who has a minor illness or a disability or is malnourished.", 
+        "language": "eng_UK", 
+        "title": "It is safe to immunize a child who has a minor illness or a disability or is malnourished.", 
+        "primary_category": "290418574a82441da15c189d60a4d004", 
+        "created_at": "2014-09-12T09:31:50.870087+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-09-12T09:31:50.877689+00:00", 
+        "linked_pages": [], 
+        "slug": "it-is-safe-to-immunize-a-child-who-has-a-minor-illness-or-a-disability-or-is-malnourished", 
+        "content": "Many parents do not take a child to be immunized because the child has a\nfever, cough, cold, diarrhoea or some other illness. However, it is safe to\nimmunize a child who has a minor illness.\n\nIt is also safe to immunize a child who has a disability or is malnourished.\nIf a child is HIV-positive or suspected to be HIV-positive, a trained health\nworker should be consulted about which vaccines to give the child.\n\nAfter an injection, the child may cry or develop a fever, a minor rash or a\nsmall sore. This is normal and shows that the vaccine is working. Children\nunder 6 months of age should breastfeed frequently; older children should be\ngiven plenty of liquids and foods. If the child develops a high fever (over 38\ndegrees Celsius) the child should be taken to a trained health worker or\nhealth centre.\n\nMeasles can be extremely dangerous for malnourished children, so they should\nbe immunized against measles, especially if the malnutrition is severe.\n\n", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "id": "9d6d7bcf7ad34702a465b9e9373faa3f"
+    }, 
+    "model": "GitPageModel"
+}
