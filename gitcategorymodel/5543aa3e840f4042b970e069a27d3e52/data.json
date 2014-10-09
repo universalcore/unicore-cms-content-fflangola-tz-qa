@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "eng_UK", 
+        "title": "cache cat", 
+        "slug": "cache-cat", 
+        "source": null, 
+        "position": null, 
+        "featured_in_navbar": true, 
+        "id": "5543aa3e840f4042b970e069a27d3e52"
+    }, 
+    "model": "GitCategoryModel"
+}
