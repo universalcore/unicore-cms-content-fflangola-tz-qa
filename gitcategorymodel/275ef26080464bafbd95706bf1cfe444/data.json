@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "swh_TZ", 
+        "title": "Kukabiliana na dharura wakati wowote", 
+        "slug": "kukabiliana-na-dharura-wakati-wowote", 
+        "source": null, 
+        "position": null, 
+        "featured_in_navbar": false, 
+        "id": "275ef26080464bafbd95706bf1cfe444"
+    }, 
+    "model": "GitCategoryModel"
+}
