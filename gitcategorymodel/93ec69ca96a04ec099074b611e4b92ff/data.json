@@ -2,9 +2,9 @@
     "fields": {
         "subtitle": "", 
         "language": "swh_TZ", 
-        "title": "Chanjo", 
-        "slug": "chanjo", 
-        "source": null, 
+        "title": "Kuchanjwa", 
+        "slug": "kuchanjwa", 
+        "source": "2e36609ab32d4670945ae304501a65cc", 
         "position": null, 
         "featured_in_navbar": false, 
         "id": "93ec69ca96a04ec099074b611e4b92ff"
