@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "swh_TZ", 
+        "title": "Kuzuia magonjwa", 
+        "slug": "kuzuia-magonjwa", 
+        "source": null, 
+        "position": null, 
+        "featured_in_navbar": false, 
+        "id": "f9fc86ecc6cc48eeba16874175b7d202"
+    }, 
+    "model": "GitCategoryModel"
+}
