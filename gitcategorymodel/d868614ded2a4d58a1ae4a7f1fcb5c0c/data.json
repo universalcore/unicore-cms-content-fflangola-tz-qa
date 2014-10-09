@@ -1,0 +1,13 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "swh_TZ", 
+        "title": "Ulinzi dhidi ya majeraha", 
+        "slug": "ulinzi-dhidi-ya-majeraha", 
+        "source": null, 
+        "position": null, 
+        "featured_in_navbar": false, 
+        "id": "d868614ded2a4d58a1ae4a7f1fcb5c0c"
+    }, 
+    "model": "GitCategoryModel"
+}
