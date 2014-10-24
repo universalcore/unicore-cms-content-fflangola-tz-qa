@@ -1,0 +1,25 @@
+{
+  "subtitle": "", 
+  "description": "Burns can be prevented by keeping children away from fires, cooking stoves, hot liquids and foods, and exposed electric wires.", 
+  "language": "eng_UK", 
+  "title": "Burns can be prevented by keeping children away from fires, cooking stoves, hot liquids and foods, and exposed electric wires.", 
+  "primary_category": "7349c191be27404e8608d9dce12d7825", 
+  "created_at": "2014-09-12T10:52:40.174625+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-09-12T10:52:40.184822+00:00", 
+  "_version": {
+    "package_version": "0.2.2", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "08b2ac2146d04f1cb359ae259101cd0b", 
+  "content": "Burning and scalding are among the most common causes of serious injury among\nyoung children. Burns often cause permanent scarring, and some are fatal. The\ngreat majority of these are preventable.\n\n**One of the most common types of burns is from direct contact with fires or flames or touching hot surfaces. To prevent this kind of burn:**\n\n  * keep young children away from cooking fires, matches, paraffin lamps, candles and flammable liquids such as paraffin and kerosene\n  * put stoves on a flat, raised surface out of the reach of children\n  * if an open cooking fire is used, make it on a raised mound of clay, not directly on the ground. A barrier of mud, bamboo or other material or a playpen can also be used to keep young children out of reach of the cooking place.\n  * do not leave small children alone near fires or to tend fires or cook\n  * keep children away from heaters, hot irons and other hot appliances\n  * never leave a child alone in a room with a candle or fire burning.\n\n**Another major cause of burns is scalding from hot liquids or foods. To prevent scalds:**\n\n  * turn the handles of all cooking pots away from the reach of children\n  * keep hot foods and liquids in a safe place and out of children's reach\n  * do not let children turn on the hot water tap in a bath or shower by themselves\n  * keep the temperature of water heaters below a medium setting to prevent scalding if children turn on the hot water\n  * teach children not to play rough around people with hot drinks or in the kitchen when meals are being prepared\n  * never hold a child when having hot liquids or foods.\n\n**Children can get a serious shock or burn if they come in contact with electricity. To prevent shocks and burns:**\n\n  * teach children never to put their fingers or other objects into electric sockets\n  * cover power sockets to prevent access\n  * keep electric wires out of children's reach\n  * cover bare electric wires, which are particularly dangerous, using insulating tape.\n\n[For first aid advice on cuts and wounds, refer to the end of this\nchapter](/content/detail/first-aid-advice/)\n\n", 
+  "source": null, 
+  "featured": false, 
+  "published": true, 
+  "slug": "burns-can-be-prevented-by-keeping-children-away-from-fires-cooking-stoves-hot-liquids-and-foods-and-exposed-electric-wires", 
+  "uuid": "08b2ac2146d04f1cb359ae259101cd0b"
+}
