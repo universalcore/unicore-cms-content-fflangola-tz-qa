@@ -1,0 +1,25 @@
+{
+  "subtitle": "", 
+  "description": "Income support and social welfare services can help keep families together and children in school and ensure access to health care.", 
+  "language": "eng_UK", 
+  "title": "Income support and social welfare services can help keep families together and children in school and ensure access to health care.", 
+  "primary_category": "7165c0a9bc0843f596561eec590ed2e1", 
+  "created_at": "2014-09-12T10:24:17.529318+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-09-12T10:24:17.538079+00:00", 
+  "_version": {
+    "package_version": "0.2.2", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "2b98b6ff2b344d0eb21e112084945057", 
+  "content": "Households that need income support and social welfare services may be headed\nby the elderly, widows, children or individuals who are sick or disabled. This\ncan include families affected by HIV.\n\nIncome support and social welfare services can provide children and families\nthe means to:\n\n  * purchase food\n  * pay for or access health care and education\n  * keep families together\n  * keep children out of institutional care or from working or living on the street\n  * help families break out of the cycle of poverty.\n\nThe government and local authorities, with support from civil society, can\nhelp identify families in need. They can assist families with income support\nand social welfare services such as counselling and legal aid. It is important\nto ensure that families do not face discrimination related to accessing or\nusing the services.\n\nInformation on income support and social welfare services can be provided\nthrough various communication channels, including health centres, schools and\ncommunity centres; during community meetings and events; and through radio and\nloudspeaker announcements.\n\n", 
+  "source": null, 
+  "featured": false, 
+  "published": true, 
+  "slug": "income-support-and-social-welfare-services-can-help-keep-families-together-and-children-in-school-and-ensure-access-to-health-care", 
+  "uuid": "2b98b6ff2b344d0eb21e112084945057"
+}
