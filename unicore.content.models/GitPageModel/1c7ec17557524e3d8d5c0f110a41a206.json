@@ -1,0 +1,25 @@
+{
+  "subtitle": "", 
+  "description": "Raw or leftover cooked food can be dangerous. Raw food should be washed or cooked. Cooked food should be eaten without delay or thoroughly reheated before eating.", 
+  "language": "eng_UK", 
+  "title": "Raw or leftover cooked food can be dangerous. Raw food should be washed or cooked. Cooked food should be eaten without delay or thoroughly reheated before eating.", 
+  "primary_category": "e8b0af5d763747c9956ff08084260809", 
+  "created_at": "2014-07-22T18:02:21+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-07-22T18:15:33.819052+00:00", 
+  "_version": {
+    "package_version": "0.2.2", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "1c7ec17557524e3d8d5c0f110a41a206", 
+  "content": "Cooking food thoroughly kills germs. Food, especially meat and poultry, should\nbe cooked all the way through.\n\nGerms grow quickly in warm food. Food should be eaten as soon as possible\nafter cooking so it does not have time to collect germs.\n\n  * If food has to be kept for more than two hours, it should be kept either very hot or very cool.\n  * If cooked food is saved for another meal, it should be covered to keep off flies and insects and then thoroughly reheated before being eaten.\n  * Yogurt and sour porridge are good to use in the preparation of meals because their acid prevents the growth of germs.\n\nRaw food, especially poultry and seafood, usually contains germs. Cooked food\ncan collect germs if it touches raw food, and these germs can breed in the\ncooked food in a few hours. Raw and cooked foods should always be kept\nseparate. Knives, chopping boards and surfaces should always be cleaned with\nsoap and water after preparing raw food.\n\n  * Special care should be taken in preparing food for infants and small children. Their food should be freshly made and eaten immediately, not left standing.\n  * Breastmilk is the safest (and most nutritious) milk for infants and young children. Expressed breastmilk can be stored at room temperature for up to eight hours in a clean, covered container. If older children are given animal milk it should be freshly boiled or pasteurized (a special way of heating milk to destroy harmful bacteria).\n  * All poultry and poultry products should be cooked the whole way through to prevent the spread of avian influenza (bird flu).\n  * Fruit and vegetables should be peeled or washed thoroughly with clean water, especially if they are to be eaten raw by young children. Fruits and vegetables are often treated with chemicals such as pesticides and herbicides, which can be harmful.\n  * Hands should be washed with soap and water after handling raw foods.\n\n", 
+  "source": null, 
+  "featured": false, 
+  "published": true, 
+  "slug": "raw-or-leftover-cooked-food-can-be-dangerous-raw-food-should-be-washed-or-cooked-cooked-food-should-be-eaten-without-delay-or-thoroughly-reheated-before-eating", 
+  "uuid": "1c7ec17557524e3d8d5c0f110a41a206"
+}
