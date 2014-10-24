@@ -1,0 +1,25 @@
+{
+  "subtitle": "", 
+  "description": "All pregnant women and their newborns need to be protected against tetanus. Even if a woman was immunized earlier, she needs to check with a trained health worker for advice on tetanus toxoid immunization.", 
+  "language": "eng_UK", 
+  "title": "All pregnant women and their newborns need to be protected against tetanus. Even if a woman was immunized earlier, she needs to check with a trained health worker for advice on tetanus toxoid immuniza", 
+  "primary_category": "290418574a82441da15c189d60a4d004", 
+  "created_at": "2014-09-12T09:31:11.817195+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-09-12T09:31:11.824511+00:00", 
+  "_version": {
+    "package_version": "0.2.2", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "0a9cf5a03b1a401e9cddc141195a517c", 
+  "content": "In many parts of the world, mothers give birth in unhygienic conditions. This\nputs both mother and child at risk of getting tetanus, a major killer of\nnewborn infants.\n\nIf a pregnant woman is not immunized against tetanus, and tetanus bacteria or\nspores enter her body, her life will also be at risk.\n\nTetanus bacteria or spores grow in dirty cuts. These bacteria can grow if the\numbilical cord is cut with an unclean knife or if anything unclean touches the\nend of the cord. Any tool used to cut the cord should be cleaned, boiled or\nheated over a flame, and allowed to cool. For the first week after birth, the\nbaby's umbilical stump must be kept clean. No substances should be put on the\nstump.\n\nAll pregnant women should make sure they have been immunized against tetanus.\nThis protects both mothers and newborns.\n\nIt is safe for a pregnant woman to be immunized against tetanus. She should be\nimmunized according to this schedule:\n\n**First dose:** As soon as she knows she is pregnant.  \n**Second dose:** One month after the first dose, and no later than two weeks before her due date.  \n**Third dose:** Six months to one year after the second dose, or during the next pregnancy.  \n**Fourth dose: **One year after the third dose, or during a subsequent pregnancy.  \n**Fifth dose:** One year after the fourth dose, or during a subsequent pregnancy.\n\nAfter five properly spaced doses, the mother is protected for life and her\nchildren are protected for the first few weeks of life.\n\n", 
+  "source": null, 
+  "featured": false, 
+  "published": true, 
+  "slug": "all-pregnant-women-and-their-newborns-need-to-be-protected-against-tetanus-even-if-a-woman-was-immunized-earlier-she-needs-to-check-with-a-trained-health-worker-for-advice-on-tetanus-toxoid-immuniza", 
+  "uuid": "0a9cf5a03b1a401e9cddc141195a517c"
+}
