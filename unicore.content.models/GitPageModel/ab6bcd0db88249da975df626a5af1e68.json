@@ -1,0 +1,25 @@
+{
+  "subtitle": "", 
+  "description": "The health risks of pregnancy and childbirth increase if a woman has had many pregnancies.", 
+  "language": "eng_UK", 
+  "title": "The health risks of pregnancy and childbirth increase if a woman has had many pregnancies.", 
+  "primary_category": "4feb0aac278044d8b007cac5d817dfbc", 
+  "created_at": "2014-09-10T12:09:04.615518+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-09-10T12:09:04.623488+00:00", 
+  "_version": {
+    "package_version": "0.2.2", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "ab6bcd0db88249da975df626a5af1e68", 
+  "content": "A woman's body can easily become exhausted by repeated pregnancies, childbirth\nand caring for small children. After many pregnancies, she faces an increased\nrisk of serious health problems such as anaemia and haemorrhage.\n\n", 
+  "source": null, 
+  "featured": false, 
+  "published": true, 
+  "slug": "the-health-risks-of-pregnancy-and-childbirth-increase-if-a-woman-has-had-many-pregnancies", 
+  "uuid": "ab6bcd0db88249da975df626a5af1e68"
+}
