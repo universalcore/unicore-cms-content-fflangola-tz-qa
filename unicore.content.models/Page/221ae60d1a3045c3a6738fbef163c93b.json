@@ -1,0 +1,25 @@
+{
+  "subtitle": "", 
+  "description": "A child who has a prolonged cough that persists for more than three weeks needs immediate medical attention. The child may have tuberculosis, an infection in the lungs.", 
+  "language": "eng_UK", 
+  "title": "A child who has a prolonged cough that persists for more than three weeks needs immediate medical attention. The child may have tuberculosis, an infection in the lungs.", 
+  "primary_category": "e69d489411004b33842a2e91b14592d9", 
+  "created_at": "2014-09-12T10:17:22.642812+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-10-17T07:12:44.482051+00:00", 
+  "_version": {
+    "package_version": "0.2.2", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "221ae60d1a3045c3a6738fbef163c93b", 
+  "content": "Tuberculosis is a serious disease that can kill a child or permanently damage\nthe lungs. Families and caregivers can help prevent tuberculosis if they\nensure that children: * are fully immunized - BCG immunization offers some\nprotection against some forms of tuberculosis * are kept away from anyone who\nhas tuberculosis or has a cough with blood in the sputum. If a trained health\nworker provides special medicine for tuberculosis, it is important to give the\nchild all the medicine according to the instructions. It must be given for as\nlong as specified, even if the child seems better. If not, the child could\nbuild up resistance to the medicine, reducing its effectiveness the next time\nit is needed.\n\n", 
+  "source": null, 
+  "featured": false, 
+  "published": true, 
+  "slug": "a-child-who-has-a-prolonged-cough-that-persists-for-more-than-three-weeks-needs-immediate-medical-attention-the-child-may-have-tuberculosis-an-infection-in-the-lungs", 
+  "uuid": "221ae60d1a3045c3a6738fbef163c93b"
+}

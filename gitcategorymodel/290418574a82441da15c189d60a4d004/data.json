@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "eng_UK", 
+        "title": "Immunization", 
+        "slug": "immunization", 
+        "source": null, 
+        "featured_in_navbar": false, 
+        "id": "290418574a82441da15c189d60a4d004"
+    }, 
+    "model": "GitCategoryModel"
+}

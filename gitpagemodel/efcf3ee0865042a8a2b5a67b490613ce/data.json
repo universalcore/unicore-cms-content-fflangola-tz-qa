@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "A child suffering or recovering from malaria needs plenty of liquids and food.", 
+        "language": "eng_UK", 
+        "title": "A child suffering or recovering from malaria needs plenty of liquids and food.", 
+        "primary_category": "5132c15f5dfe406592fb0dd390873dcb", 
+        "created_at": "2014-09-09T12:09:18.295572+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-09-09T12:09:18.304487+00:00", 
+        "linked_pages": [], 
+        "slug": "a-child-suffering-or-recovering-from-malaria-needs-plenty-of-liquids-and-food", 
+        "content": "A girl or boy suffering from malaria should be offered liquids and foods\nfrequently to help prevent dehydration and malnutrition.\n\nFrequent breastfeeding prevents dehydration and helps the child fight\ninfections, including malaria. Children who are breastfeeding and suffering\nfrom malaria should be breastfed as often as possible.\n\nFrequent malarial infection can cause anaemia. A child who has had malaria\nseveral times should be checked for anaemia.\n\n", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "id": "efcf3ee0865042a8a2b5a67b490613ce"
+    }, 
+    "model": "GitPageModel"
+}

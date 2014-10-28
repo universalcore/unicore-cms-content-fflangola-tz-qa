@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "Food, utensils and preparation surfaces should be kept clean and away from animals. Food should be stored in covered containers.", 
+        "language": "eng_UK", 
+        "title": "Food, utensils and preparation surfaces should be kept clean and away from animals. Food should be stored in covered containers.", 
+        "primary_category": "e8b0af5d763747c9956ff08084260809", 
+        "created_at": "2014-07-22T18:01:05+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-07-22T18:17:17.980870+00:00", 
+        "linked_pages": [], 
+        "slug": "food-utensils-and-preparation-surfaces-should-be-kept-clean-and-away-from-animals-food-should-be-stored-in-covered-containers", 
+        "content": "Germs on food can be swallowed and cause illness. To protect food from germs:\n\n  * keep food preparation surfaces clean\n  * keep knives, cooking utensils, pots and plates clean and covered\n  * wash cloths used to clean dishes or pans thoroughly every day and dry them in the sun. Wash plates, utensils and pans immediately after eating and put them on a rack to dry\n  * keep food in clean, covered containers to protect it from insects and animals\n  * do not use feeding bottles or teats, because they may contain germs that cause diarrhoea. Breastfeed, or feed children from a clean, open cup. If bottles/teats are used, clean them after each use with boiling water.\n\n", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "id": "086c8faa54c849a59aa4c4acb7ed314f"
+    }, 
+    "model": "GitPageModel"
+}

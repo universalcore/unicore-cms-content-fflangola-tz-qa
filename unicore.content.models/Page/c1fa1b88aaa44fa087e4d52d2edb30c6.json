@@ -1,0 +1,25 @@
+{
+  "subtitle": "", 
+  "description": "Very thin and/or swollen children need special medical care. They should be taken to a trained health worker or health facility for assessment and treatment.", 
+  "language": "eng_UK", 
+  "title": "Very thin and/or swollen children need special medical care. They should be taken to a trained health worker or health facility for assessment and treatment.", 
+  "primary_category": "e9939fe1b6ec42ea9ab78ed065356b26", 
+  "created_at": "2014-09-12T08:57:39.828528+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-09-12T08:57:39.835314+00:00", 
+  "_version": {
+    "package_version": "0.2.2", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "c1fa1b88aaa44fa087e4d52d2edb30c6", 
+  "content": "A short period of inadequate nutrition together with illness or infection can\nquickly make a child dangerously malnourished. The child needs urgent\ntreatment with special foods and medicine. He or she should be taken directly\nto the nearest health-care provider.\n\nChildren with severe acute malnutrition are very thin. They may also have\nswollen parts of the body, usually the feet and the legs. A trained health\nworker can identify severe acute malnutrition by measuring the child's weight\nand height, using a special band to measure the upper arms or checking for\nequal swelling in both legs.\n\nTreating a child with severe acute malnutrition effectively needs to be done\nby a health-care provider. The treatment depends on how sick the child is.\nMost children over 6 months old can be treated with a special ready-to-use\ntherapeutic food (RUTF). This is a soft pre-packaged food that contains all\nthe nutrients needed for the child's recovery. RUTF is easy for children to\nconsume directly from the packet and requires no mixing with water or other\nfoods, making it safe to use anywhere. Parents or other caregivers are\nprovided with a week's supply of RUTF, along with information on how to treat\nthe child. Medications are also provided as part of the treatment.The child\nshould be taken back to the health-care provider every week to monitor his or\nher progress.\n\nMore intensive treatment is needed for children who are not able to eat RUTF,\nhave other medical problems or are under 6 months old. These cases should be\nreferred to a hospital or other facility that can provide 24-hour medical\ncare, therapeutic milks and breastfeeding support.\n\nChildren with severe acute malnutrition get cold more quickly than other\nchildren, so they must always be kept warm. Skin-to-skin contact with the\nmother or other caregiver can help keep a child warm. Both the mother and\nchild should be covered. The child's head should also be kept covered.\n\nAlthough children with severe acute malnutrition need special nutritional\ntreatment, breastmilk is still a vital source of nutrients and protection from\ndisease. In addition to the special treatment (either at home or in a\nfacility), children who are breastfeeding should continue to breastfeed.\n\n", 
+  "source": null, 
+  "featured": false, 
+  "published": true, 
+  "slug": "very-thin-andor-swollen-children-need-special-medical-care-they-should-be-taken-to-a-trained-health-worker-or-health-facility-for-assessment-and-treatment", 
+  "uuid": "c1fa1b88aaa44fa087e4d52d2edb30c6"
+}
