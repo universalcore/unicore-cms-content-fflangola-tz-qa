@@ -1,25 +1,28 @@
 {
   "subtitle": "", 
   "description": "Every woman has the right to quality health care, especially a pregnant woman or a new mother. Health workers should be technically competent and sensitive to cultural practices and should treat all women, including adolescent girls, with respect.", 
-  "language": "eng_UK", 
+  "language": "eng_GB", 
   "title": "Every woman has the right to quality health care, especially a pregnant woman or a new mother. Health workers should be technically competent and sensitive to cultural practices and should treat all w", 
   "primary_category": "d274d523e8df4fb1817943261e253291", 
   "created_at": "2014-09-10T12:28:34.884965+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-09-10T12:28:34.892990+00:00", 
+  "modified_at": "2014-11-20T08:17:40.019856+00:00", 
   "_version": {
     "package_version": "0.2.2", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
   "id": "25472631db334822a0f86f2dc794c9b0", 
-  "content": "Many dangers of pregnancy and childbirth can be avoided if women have access\nto quality health care during pregnancy and childbirth and after childbirth.\n\nAll women have the right to the services of a skilled birth attendant, such as\na doctor, nurse or midwife, and to emergency care if complications should\narise.\n\nQuality health care that offers information and counselling enables women and\nmen to make informed decisions about their reproductive health. A woman in\nneed of maternal care should be supported by her husband or partner and family\nto take good care of herself and her baby and to reach a health facility when\nneeded, including for prenatal care, childbirth, post-natal care and emergency\ncare.\n\nGovernments, with support from communities, should make sure that the cost of\nhealth services does not prevent women, including adolescent girls, from using\nthem. Other barriers such as the cost of transport, long distances, difficult\nroads and cultural practices also need to be addressed to ensure access to\nhealth services.\n\nHealth-care providers should be supported through regular training to maintain\nand improve their technical and communication skills needed to provide quality\nhealth care. They should be trained to treat all women with respect, to be\nsensitive to cultural norms and practices, and to respect a person's right to\nconfidentiality and privacy. They need to be sensitive and understanding of\nthe particular needs of adolescents, and know how to support and counsel them\nin caring for themselves and their babies.\n\n", 
+  "content": "Many dangers of pregnancy and childbirth can be avoided if women have access\nto quality health care during pregnancy and childbirth and after childbirth.\nAll women have the right to the services of a skilled birth attendant, such as\na doctor, nurse or midwife, and to emergency care if complications should\narise. Quality health care that offers information and counselling enables\nwomen and men to make informed decisions about their reproductive health. A\nwoman in need of maternal care should be supported by her husband or partner\nand family to take good care of herself and her baby and to reach a health\nfacility when needed, including for prenatal care, childbirth, post-natal care\nand emergency care. Governments, with support from communities, should make\nsure that the cost of health services does not prevent women, including\nadolescent girls, from using them. Other barriers such as the cost of\ntransport, long distances, difficult roads and cultural practices also need to\nbe addressed to ensure access to health services. Health-care providers should\nbe supported through regular training to maintain and improve their technical\nand communication skills needed to provide quality health care. They should be\ntrained to treat all women with respect, to be sensitive to cultural norms and\npractices, and to respect a person's right to confidentiality and privacy.\nThey need to be sensitive and understanding of the particular needs of\nadolescents, and know how to support and counsel them in caring for themselves\nand their babies.\n\n", 
   "source": null, 
   "featured": false, 
+  "image": null, 
   "published": true, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
   "slug": "every-woman-has-the-right-to-quality-health-care-especially-a-pregnant-woman-or-a-new-mother-health-workers-should-be-technically-competent-and-sensitive-to-cultural-practices-and-should-treat-all-w", 
   "uuid": "25472631db334822a0f86f2dc794c9b0"
 }
