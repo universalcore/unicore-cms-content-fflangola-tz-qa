@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
   "description": "Good hygiene practices and use of safe drinking water protect against diarrhoea. Hands should be thoroughly washed with soap and water or a substitute, such as ash and water, after defecating and after contact with faeces, and before touching or preparing food or feeding children.", 
-  "language": "eng_UK", 
+  "language": "eng_GB", 
   "title": "Good hygiene practices and use of safe drinking water protect against diarrhoea. Hands should be thoroughly washed with soap and water or a substitute, such as ash and water, after defecating and afte", 
   "primary_category": "116e3cfd167340088d465880ce508a8d", 
   "created_at": "2014-07-22T17:55:00+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-10-17T07:12:49.125530+00:00", 
+  "modified_at": "2014-11-20T08:17:51.220669+00:00", 
   "_version": {
     "package_version": "0.2.2", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
@@ -19,7 +19,10 @@
   "content": "Hands should always be washed with soap and water or a substitute, such as ash\nand water, after defecating, after helping children use the toilet or latrine,\nafter cleaning the baby's bottom, after disposing of refuse, and immediately\nbefore feeding children, handling food or eating. Young children frequently\nput their hands in their mouths. So it is important to keep the household area\nclean and to teach children to wash their hands properly and frequently,\nespecially after defecating and before eating. Using safe drinking water and\nkeeping it clean and free of germs helps to reduce diarrhoea. Other hygiene\nmeasures that can help to prevent diarrhoea include: * peel fruit and\nvegetables or wash them thoroughly with clean water, especially if young\nchildren eat them raw * prepare and thoroughly cook food just before eating\n(Food left standing can collect germs that can cause diarrhoea. After two\nhours, cooked foods are not safe unless they are kept very hot or very cold.)\n* bury, burn or safely dispose of all food refuse to stop flies from spreading\ndisease.\n\n", 
   "source": null, 
   "featured": false, 
+  "image": null, 
   "published": true, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
   "slug": "good-hygiene-practices-and-use-of-safe-drinking-water-protect-against-diarrhoea-hands-should-be-thoroughly-washed-with-soap-and-water-or-a-substitute-such-as-ash-and-water-after-defecating-and-afte", 
   "uuid": "dafec278033d4ce2a70ebbf3059fc66d"
 }
