@@ -1,25 +1,28 @@
 {
   "subtitle": "", 
   "description": "A child suffering or recovering from malaria needs plenty of liquids and food.", 
-  "language": "eng_UK", 
+  "language": "eng_GB", 
   "title": "A child suffering or recovering from malaria needs plenty of liquids and food.", 
   "primary_category": "5132c15f5dfe406592fb0dd390873dcb", 
   "created_at": "2014-09-09T12:09:18.295572+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-09-09T12:09:18.304487+00:00", 
+  "modified_at": "2014-11-20T08:17:43.853656+00:00", 
   "_version": {
     "package_version": "0.2.2", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
   "id": "efcf3ee0865042a8a2b5a67b490613ce", 
-  "content": "A girl or boy suffering from malaria should be offered liquids and foods\nfrequently to help prevent dehydration and malnutrition.\n\nFrequent breastfeeding prevents dehydration and helps the child fight\ninfections, including malaria. Children who are breastfeeding and suffering\nfrom malaria should be breastfed as often as possible.\n\nFrequent malarial infection can cause anaemia. A child who has had malaria\nseveral times should be checked for anaemia.\n\n", 
+  "content": "A girl or boy suffering from malaria should be offered liquids and foods\nfrequently to help prevent dehydration and malnutrition. Frequent\nbreastfeeding prevents dehydration and helps the child fight infections,\nincluding malaria. Children who are breastfeeding and suffering from malaria\nshould be breastfed as often as possible. Frequent malarial infection can\ncause anaemia. A child who has had malaria several times should be checked for\nanaemia.\n\n", 
   "source": null, 
   "featured": false, 
+  "image": null, 
   "published": true, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
   "slug": "a-child-suffering-or-recovering-from-malaria-needs-plenty-of-liquids-and-food", 
   "uuid": "efcf3ee0865042a8a2b5a67b490613ce"
 }
