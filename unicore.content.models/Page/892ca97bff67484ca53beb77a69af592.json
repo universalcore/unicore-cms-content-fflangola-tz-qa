@@ -1,25 +1,28 @@
 {
   "subtitle": "", 
   "description": "The vaccination card of a child (or an adult) should be presented to the health worker before every immunization.", 
-  "language": "eng_UK", 
+  "language": "eng_GB", 
   "title": "The vaccination card of a child (or an adult) should be presented to the health worker before every immunization.", 
   "primary_category": "290418574a82441da15c189d60a4d004", 
   "created_at": "2014-09-12T09:27:16.964025+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-09-12T09:27:16.970496+00:00", 
+  "modified_at": "2014-11-20T08:17:22.354420+00:00", 
   "_version": {
     "package_version": "0.2.2", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
   "id": "892ca97bff67484ca53beb77a69af592", 
-  "content": "It is important to follow the vaccination schedule in accordance with national\nguidelines. Children should be immunized at the recommended ages and should\nreceive subsequent doses at recommended intervals.\n\nWhen a child is immunized, the health worker should record the vaccine, which\ndose it is (first, second, etc.) and the date on an immunization or health\ncard given to the parents or other caregiver. The immunizations should also be\nrecorded and kept at the health clinic. It is important for the parents or\nother caregiver to keep the immunization card and bring it with them the next\ntime the child is vaccinated. With it, the health worker can record which\nvaccines the child has received and the date they were given. The healh worker\ncan also provide information to the parents or other caregiver on vaccines\nthat are missing or remaining.\n\n", 
+  "content": "It is important to follow the vaccination schedule in accordance with national\nguidelines. Children should be immunized at the recommended ages and should\nreceive subsequent doses at recommended intervals. When a child is immunized,\nthe health worker should record the vaccine, which dose it is (first, second,\netc.) and the date on an immunization or health card given to the parents or\nother caregiver. The immunizations should also be recorded and kept at the\nhealth clinic. It is important for the parents or other caregiver to keep the\nimmunization card and bring it with them the next time the child is\nvaccinated. With it, the health worker can record which vaccines the child has\nreceived and the date they were given. The healh worker can also provide\ninformation to the parents or other caregiver on vaccines that are missing or\nremaining.\n\n", 
   "source": null, 
   "featured": false, 
+  "image": null, 
   "published": true, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
   "slug": "the-vaccination-card-of-a-child-or-an-adult-should-be-presented-to-the-health-worker-before-every-immunization", 
   "uuid": "892ca97bff67484ca53beb77a69af592"
 }
