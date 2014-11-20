@@ -1,25 +1,28 @@
 {
   "subtitle": "", 
   "description": "Girls who are educated and healthy and who have a nutritious diet throughout their childhood and teenage years are more likely to have healthy babies and go through pregnancy and childbirth safely if childbearing begins after they are 18 years old.", 
-  "language": "eng_UK", 
+  "language": "eng_GB", 
   "title": "Girls who are educated and healthy and who have a nutritious diet throughout their childhood and teenage years are more likely to have healthy babies and go through pregnancy and childbirth safely if ", 
   "primary_category": "d274d523e8df4fb1817943261e253291", 
   "created_at": "2014-09-10T13:25:32.790563+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-09-10T13:25:32.800961+00:00", 
+  "modified_at": "2014-11-20T08:17:36.626415+00:00", 
   "_version": {
     "package_version": "0.2.2", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
   "id": "aea0144d731142efaa86b0d3ec4e1007", 
-  "content": "Girls with more formal education are better equipped to fulfil their potential\nin life. They tend to know about health-care practices and are less likely to\nbecome pregnant at a very young age. They are more likely to marry later, have\nfewer and better-spaced pregnancies, and seek prenatal and post-natal care. It\nis estimated that two maternal deaths can be prevented for every additional\nyear of school attendance per 1,000 women.\n\nThe healthy growth and development of a girl through adolescence helps to\nprepare her for healthy pregnancies during her childbearing years.\n\nIn addition to education and health care, girls need a nutritious diet during\nchildhood and adolescence to reduce problems later in pregnancy and\nchildbirth. A nutritious diet includes iodized salt and foods rich in\nessential minerals and vitamins such as beans and other pulses, grains, green\nleafy vegetables, and red, yellow and orange vegetables and fruits. Whenever\npossible, milk or other dairy products, eggs, fish, chicken and meat should be\nincluded in the diet.\n\nGirls who stay in school are more likely to delay marriage and childbirth.\nEarly pregnancy can have serious consequences for adolescents under 18 years\nold, particularly for those under 15 years old. Adolescent girls and their\nbabies are at much higher risk of complications and death.\n\nIt is important to empower girls to avoid early pregnancy and inform both\ngirls and boys about the risks of early pregnancy as well as sexually\ntransmitted infections, including HIV. They both need to develop the skills to\nmake healthy life choices that also support equality and respect in\nrelationships.\n\nGenital cutting of girls and women can cause severe vaginal and urinary\ninfections that can result in sterility or death. It can also cause dangerous\ncomplications during childbirth.\n\nHealth workers and community outreach programmes can help raise awareness of\nharmful practices and the importance for adolescents to delay marriage and\npregnancy for their health and well-being.\n\nFamilies need to understand the high risks of early pregnancy. If an\nadolescent girl marries early and/or becomes pregnant, her family should\nprovide her with support and ensure she obtains the health services she needs.\n\n", 
+  "content": "Girls with more formal education are better equipped to fulfil their potential\nin life. They tend to know about health-care practices and are less likely to\nbecome pregnant at a very young age. They are more likely to marry later, have\nfewer and better-spaced pregnancies, and seek prenatal and post-natal care. It\nis estimated that two maternal deaths can be prevented for every additional\nyear of school attendance per 1,000 women. The healthy growth and development\nof a girl through adolescence helps to prepare her for healthy pregnancies\nduring her childbearing years. In addition to education and health care, girls\nneed a nutritious diet during childhood and adolescence to reduce problems\nlater in pregnancy and childbirth. A nutritious diet includes iodized salt and\nfoods rich in essential minerals and vitamins such as beans and other pulses,\ngrains, green leafy vegetables, and red, yellow and orange vegetables and\nfruits. Whenever possible, milk or other dairy products, eggs, fish, chicken\nand meat should be included in the diet. Girls who stay in school are more\nlikely to delay marriage and childbirth. Early pregnancy can have serious\nconsequences for adolescents under 18 years old, particularly for those under\n15 years old. Adolescent girls and their babies are at much higher risk of\ncomplications and death. It is important to empower girls to avoid early\npregnancy and inform both girls and boys about the risks of early pregnancy as\nwell as sexually transmitted infections, including HIV. They both need to\ndevelop the skills to make healthy life choices that also support equality and\nrespect in relationships. Genital cutting of girls and women can cause severe\nvaginal and urinary infections that can result in sterility or death. It can\nalso cause dangerous complications during childbirth. Health workers and\ncommunity outreach programmes can help raise awareness of harmful practices\nand the importance for adolescents to delay marriage and pregnancy for their\nhealth and well-being. Families need to understand the high risks of early\npregnancy. If an adolescent girl marries early and/or becomes pregnant, her\nfamily should provide her with support and ensure she obtains the health\nservices she needs.\n\n", 
   "source": null, 
   "featured": false, 
+  "image": null, 
   "published": true, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
   "slug": "girls-who-are-educated-and-healthy-and-who-have-a-nutritious-diet-throughout-their-childhood-and-teenage-years-are-more-likely-to-have-healthy-babies-and-go-through-pregnancy-and-childbirth-safely-if", 
   "uuid": "aea0144d731142efaa86b0d3ec4e1007"
 }
