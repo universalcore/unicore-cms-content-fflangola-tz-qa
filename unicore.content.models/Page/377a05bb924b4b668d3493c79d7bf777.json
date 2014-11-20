@@ -1,25 +1,28 @@
 {
   "subtitle": "", 
   "description": "Children and pregnant women exposed to smoke from tobacco or cooking fires are particularly at risk of pneumonia or other breathing illnesses.", 
-  "language": "eng_UK", 
+  "language": "eng_GB", 
   "title": "Children and pregnant women exposed to smoke from tobacco or cooking fires are particularly at risk of pneumonia or other breathing illnesses.", 
   "primary_category": "bb578a55285c448fa3d1326865481751", 
   "created_at": "2014-09-12T10:16:28.031677+00:00", 
   "featured_in_category": false, 
-  "modified_at": "2014-09-12T10:16:28.041125+00:00", 
+  "modified_at": "2014-11-20T08:17:19.604749+00:00", 
   "_version": {
     "package_version": "0.2.2", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
   "id": "377a05bb924b4b668d3493c79d7bf777", 
-  "content": "Children are more likely to get pneumonia and other breathing illnesses if\nthey live in an environment with smoke.\n\nExposure to smoke can harm a child, even before birth. Pregnant women should\nnot smoke or be exposed to smoke. Babies especially should be kept out of\nsmoky kitchens and away from cooking fires.\n\nTobacco use generally begins during adolescence. Adolescents are more likely\nto start smoking if (1) the adults around them smoke, (2) tobacco advertising\nand promotion are common, and (3) tobacco products are cheap and easily\naccessible. Adolescents should be encouraged to avoid smoking and caution\ntheir friends about its dangers.\n\nSecond-hand smoke is particularly harmful to young children. It stays in the\nair for hours after cigarettes, pipes or cigars have been put out. Non-smokers\nwho inhale this smoke are more vulnerable to respiratory infections, asthma\nand cancer.\n\nParents and other caregivers need to be aware of the detrimental effects of\nsecond-hand smoke and take responsibility to refrain from smoking around\nchildren. Governments and communities can work together to inform the public\nof the harmful effects of smoky environments and second-hand smoke on\nchildren.\n\n", 
+  "content": "Children are more likely to get pneumonia and other breathing illnesses if\nthey live in an environment with smoke. Exposure to smoke can harm a child,\neven before birth. Pregnant women should not smoke or be exposed to smoke.\nBabies especially should be kept out of smoky kitchens and away from cooking\nfires. Tobacco use generally begins during adolescence. Adolescents are more\nlikely to start smoking if (1) the adults around them smoke, (2) tobacco\nadvertising and promotion are common, and (3) tobacco products are cheap and\neasily accessible. Adolescents should be encouraged to avoid smoking and\ncaution their friends about its dangers. Second-hand smoke is particularly\nharmful to young children. It stays in the air for hours after cigarettes,\npipes or cigars have been put out. Non-smokers who inhale this smoke are more\nvulnerable to respiratory infections, asthma and cancer. Parents and other\ncaregivers need to be aware of the detrimental effects of second-hand smoke\nand take responsibility to refrain from smoking around children. Governments\nand communities can work together to inform the public of the harmful effects\nof smoky environments and second-hand smoke on children.\n\n", 
   "source": null, 
   "featured": false, 
+  "image": null, 
   "published": true, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
   "slug": "children-and-pregnant-women-exposed-to-smoke-from-tobacco-or-cooking-fires-are-particularly-at-risk-of-pneumonia-or-other-breathing-illnesses", 
   "uuid": "377a05bb924b4b668d3493c79d7bf777"
 }
