@@ -1,0 +1,28 @@
+{
+  "subtitle": "", 
+  "description": "Measles, diarrhoea, pneumonia, malaria, malnutrition and neonatal complications are major causes of child deaths, particularly during emergencies.", 
+  "language": "eng_GB", 
+  "title": "Measles, diarrhoea, pneumonia, malaria, malnutrition and neonatal complications are major causes of child deaths, particularly during emergencies.", 
+  "primary_category": "1968e22c88c24ea087591915f9e020e9", 
+  "created_at": "2014-09-15T08:58:34+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-11-20T08:17:07.353232+00:00", 
+  "_version": {
+    "package_version": "0.2.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "4140cae0182341db9eff84e210ef1118", 
+  "content": "Infectious diseases spread easily in crowded emergency conditions. To reduce\nthe risks: * ensure that all children 6 months to 15 years of age are\nappropriately immunized, especially against measles, at the first point of\ncontact or settlement * continue to seek health-care services to prevent and\ntreat illnesses. (Refer to the chapters on [Safe Motherhood and Newborn\nHealth](/content/detail /why-it-is-important-1/),\n[Immunizations](/content/detail/why-it-is- important-5/); [Coughs, Colds and\nMore Serious Illnesses](/content/detail/why- it-is-important-6/), and\n[Malaria](/content/detail/why-it-is-important-to- share-and-act-on-this-\ninformation/).) Malnutrition is more common in emergencies due to shortages of\nfood, increased disease and disruption of caring practices. It is therefore\nimportant to ensure that children: * breastfeed and receive adequate amounts\nof age-appropriate nutritious foods and drinks * receive micronutrient\nsupplements in addition to fortified foods. Children who are very thin and/or\nswollen (usually the feet and legs) need to be taken to a trained health\nworker or health facility for immediate assessment and treatment and further\nmanagement in accordance with their status. (Refer to the chapters on\n[Breastfeeding](/content/detail/why-it-is- important-3/) and [Nutrition and\nGrowth](/content/detail/why-it-is- important-4/).) n emergencies, lack of safe\nwater, sanitation and hygiene can cause disease that may turn into an\nepidemic. Cholera can occur where there is poor sanitation and overcrowding.\nBasic steps to follow include: * continue to wash hands frequently with soap\nand water or a substitute, such as ash and water * dispose of faeces and\ngarbage safely * practise safe food preparation * use safe water sources or\nemploy home-based water treatment, such as boiling, filtering, adding chlorine\nor disinfecting with sunlight * store safe water in clean, covered containers.\n(Refer to the chapters on [Hygiene](/about/hygiene/) and\n[Diarrhoea](/about/diarrhoea/).)\n\n", 
+  "source": null, 
+  "featured": false, 
+  "image": null, 
+  "published": true, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "measles-diarrhoea-pneumonia-malaria-malnutrition-and-neonatal-complications-are-major-causes-of-child-deaths-particularly-during-emergencies", 
+  "uuid": "4140cae0182341db9eff84e210ef1118"
+}

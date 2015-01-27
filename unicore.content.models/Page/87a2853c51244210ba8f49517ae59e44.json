@@ -1,0 +1,28 @@
+{
+  "subtitle": "", 
+  "description": "Children need vitamin A to help resist illness, protect their eyesight and reduce the risk of death. Vitamin A can be found in many fruits and vegetables, red palm oil, eggs, dairy products, liver, fish, meat, fortified foods and breastmilk. In areas where vitamin A deficiency is common, high-dose vitamin A supplements can also be given every four to six months to children aged 6 months to 5 years.", 
+  "language": "eng_GB", 
+  "title": "Children need vitamin A to help resist illness, protect their eyesight and reduce the risk of death. Vitamin A can be found in many fruits and vegetables, red palm oil, eggs, dairy products, liver, fi", 
+  "primary_category": "e9939fe1b6ec42ea9ab78ed065356b26", 
+  "created_at": "2014-09-12T09:09:43.340425+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-11-20T08:17:24.061066+00:00", 
+  "_version": {
+    "package_version": "0.2.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "87a2853c51244210ba8f49517ae59e44", 
+  "content": "Until infants are 6 months old, breastmilk is the main source of vitamin A,\nprovided the mother has enough vitamin A from her diet or supplements.\nChildren aged 6 months to 5 years can get vitamin A from a variety of other\nfoods, such as liver, eggs, dairy products, fatty fish, red palm oil, ripe\nmangoes and papayas, oranges, yellow sweet potatoes, dark green leafy\nvegetables and carrots. When children do not have enough vitamin A they are\nless able to fight potentially fatal diseases and are at risk of night\nblindness. A child who has difficulty seeing in the early evening and at night\nis probably deficient in vitamin A. The child should be taken to a trained\nhealth worker for treatment with high-dose vitamin A supplements. In a few\ncountries, vitamin A has been added to cooking oils, sugar, wheat and flours,\nmilk and dairy products, and other foods. In many countries where vitamin A\ndeficiency is widespread and children often die from illnesses such as\ndiarrhoea and measles, vitamin A is distributed twice a year to children 6\nmonths to 5 years of age in a high-dose capsule or syrup. Diarrhoea and\nmeasles deplete vitamin A from the child's body. A child with diarrhoea\nlasting several days or with measles, or who is severely malnourished, should\nbe treated with high-dose vitamin A supplements obtained from a trained health\nworker. In areas where it is known or suspected that children suffer from\nvitamin A deficiency, those children with diarrhoea should be given a vitamin\nA supplement if they have not received one within the past month, or if they\nare not already receiving vitamin A at regular four to six month intervals.\nChildren with measles should receive vitamin A on the day of diagnosis, a dose\non the following day and another dose at least two weeks later. Zinc (tablet\nor syrup) can also be given for 10-14 days to reduce the severity and the\nduration of the diarrhoea as well as protect the child for up to two months\nfrom future diarrhoea episodes. The dosage for children over 6 months of age\nis 20 milligrams per day, for children under 6 months of age it is 10\nmilligrams per day.\n\n", 
+  "source": null, 
+  "featured": false, 
+  "image": null, 
+  "published": true, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "children-need-vitamin-a-to-help-resist-illness-protect-their-eyesight-and-reduce-the-risk-of-death-vitamin-a-can-be-found-in-many-fruits-and-vegetables-red-palm-oil-eggs-dairy-products-liver-fi", 
+  "uuid": "87a2853c51244210ba8f49517ae59e44"
+}

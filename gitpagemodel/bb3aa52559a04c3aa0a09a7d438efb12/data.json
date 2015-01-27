@@ -1,0 +1,20 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "description": "Why it is important", 
+        "language": "eng_UK", 
+        "title": "Why it is important", 
+        "primary_category": "290418574a82441da15c189d60a4d004", 
+        "created_at": "2014-09-12T09:26:34.606144+00:00", 
+        "featured_in_category": false, 
+        "modified_at": "2014-09-12T09:26:34.611783+00:00", 
+        "linked_pages": [], 
+        "slug": "why-it-is-important-5", 
+        "content": "Each year, over 1.4 million children die from diseases that are preventable\nwith readily available vaccines.\n\nThese diseases include measles, meningitis caused by Haemophilus influenzae\ntype B (Hib), diphtheria, tetanus, pertussis (whooping cough), yellow fever,\npolio and hepatitis B. New vaccines against other illnesses, such as pneumonia\nand diarrhoea caused by rotavirus, have been developed and are now more widely\nused.\n\nChildren who are immunized are protected from these dangerous diseases, which\ncan often lead to disability or death. All children have the right to this\nprotection.\n\nEvery girl and boy needs to be fully immunized. Early protection is critical.\nThe immunizations in the child's first year and into the second year are\nespecially important. It is also essential that pregnant women are immunized\nagainst tetanus to protect themselves as well as their newborns.\n\nAlthough there has been progress in the past years in immunizing children, in\n2008 nearly 24 million children -- almost 20% of children born each year --\ndid not get the routine immunizations scheduled for the first year of life.\n\nParents or other caregivers need to know why immunization is important, the\nrecommended immunization schedule, and where their children can be immunized.\n\nParents or other caregivers need to know that it is safe to immunize a child\nwho has a minor illness or a disability or is suffering from malnutrition.\n\n", 
+        "source": null, 
+        "featured": false, 
+        "published": true, 
+        "id": "bb3aa52559a04c3aa0a09a7d438efb12"
+    }, 
+    "model": "GitPageModel"
+}

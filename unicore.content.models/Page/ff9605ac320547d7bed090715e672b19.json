@@ -1,0 +1,28 @@
+{
+  "subtitle": "", 
+  "description": "Why is it important", 
+  "language": "eng_GB", 
+  "title": "Why it is important to share and act on this information", 
+  "primary_category": "5132c15f5dfe406592fb0dd390873dcb", 
+  "created_at": "2014-09-09T12:07:18+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-11-20T08:17:44.222725+00:00", 
+  "_version": {
+    "package_version": "0.2.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "ff9605ac320547d7bed090715e672b19", 
+  "content": "Malaria is a serious disease spread through mosquito bites. The World Health\nOrganization estimates that around 250 million malaria episodes occurred in\n2006, resulting in nearly 1 million deaths. About 90 per cent of all malaria\ndeaths occur in sub-Saharan Africa, most among children under age 5. Malaria\nis found in many regions of the world. In sub-Saharan Africa, it is a leading\ncause of death, illness, and poor growth and development among young children.\nIt is estimated that a child dies of malaria every 30 seconds in this area.\nMalaria is particularly dangerous for pregnant women. Some 50 million pregnant\nwomen are exposed to malaria each year. Malaria during pregnancy contributes\nto nearly 20 per cent of low-birthweight babies in endemic areas, plus\nanaemia, stillbirth and even maternal deaths. Malaria is spread by the bite of\nan Anopheles mosquito. The mosquito transfers the malaria parasite,\nPlasmodium, from person to person. People get very sick with high fevers,\ndiarrhoea, vomiting, headache, chills and flu-like illness. Especially in\nchildren, the disease can worsen rapidly, causing coma and death. Children\nunder 5 years old are most susceptible to malaria because they have very\nlittle acquired immunity to resist it. Many lives can be saved by preventing\nmalaria and treating it early. Children and their family members have the\nright to quality health care for prompt and effective treatment and malaria\nprevention. Governments, in collaboration with communities and non-\ngovernmental and community-based organizations, can minimize the number of\nmalaria cases. They need to support preventive actions, such as distributing\nlong-lasting insecticide-treated mosquito nets for families to sleep under.\n\n", 
+  "source": null, 
+  "featured": false, 
+  "image": null, 
+  "published": true, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "why-it-is-important-to-share-and-act-on-this-information", 
+  "uuid": "ff9605ac320547d7bed090715e672b19"
+}

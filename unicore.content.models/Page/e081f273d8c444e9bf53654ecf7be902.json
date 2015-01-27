@@ -1,0 +1,28 @@
+{
+  "subtitle": "", 
+  "description": "Diarrhoea kills children by draining liquid from the body, which dehydrates the child. As soon as diarrhoea starts, it is essential to give the child extra fluids along with regular foods and fluids.", 
+  "language": "eng_GB", 
+  "title": "Diarrhoea kills children by draining liquid from the body, which dehydrates the child. As soon as diarrhoea starts, it is essential to give the child extra fluids along with regular foods and fluids.", 
+  "primary_category": "68bc9bc3fff940faa8a85a49f6ab70dc", 
+  "created_at": "2014-07-22T18:01:00+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2014-11-20T08:17:46.839497+00:00", 
+  "_version": {
+    "package_version": "0.2.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": "e081f273d8c444e9bf53654ecf7be902", 
+  "content": "A child has diarrhoea when she or he passes three or more watery stools a day.\nThe more numerous the watery stools, the more dangerous the diarrhoea. Some\npeople think that drinking liquids makes diarrhoea worse. This is not true. A\nchild with diarrhoea should be given drinks, including breastmilk, as often as\npossible. Drinking lots of liquids helps to replace the fluids lost during\ndiarrhoea. **Recommended drinks for a child with diarrhoea include:** *\nbreastmilk (mothers should breastfeed more often than usual) * oral\nrehydration salts (ORS) mixed with the proper amount of clean water * soups *\nrice water * fresh fruit juices * coconut water * clean water from a safe\nsource. If there is a possibility the water is not clean and safe to drink, it\nshould be purified by boiling, filtering, adding chlorine or disinfecting with\nsunlight in accordance with information provided by a trained health worker or\nextension agent. **To avoid dehydration, breastfed children should breastfeed\nas often as possible. Children who are not breastfeeding should drink the\nfollowing amounts of liquids every time a watery stool is passed:** * for a\nchild under the age of 2 years: between 1/4 and 1/2 of a large\n(250-millilitre) cup * for a child 2 years or older: between 1/2 and 1 whole\nlarge (250-millilitre) cup. Drinks should be given from a clean cup. A feeding\nbottle should not be used. It is difficult to clean bottles completely, and\nunclean bottles can contain germs that cause diarrhoea. If the child vomits,\nthe caregiver should wait 10 minutes and then begin again to give the drink to\nthe child slowly, small sips at a time. The child should be given extra\nliquids in addition to regular foods and drinks until the diarrhoea has\nstopped. Diarrhoea usually stops after three or four days. If it lasts longer,\nparents or other caregivers should seek help from a trained health worker.\n\n", 
+  "source": null, 
+  "featured": false, 
+  "image": null, 
+  "published": true, 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "slug": "diarrhoea-kills-children-by-draining-liquid-from-the-body-which-dehydrates-the-child-as-soon-as-diarrhoea-starts-it-is-essential-to-give-the-child-extra-fluids-along-with-regular-foods-and-fluids", 
+  "uuid": "e081f273d8c444e9bf53654ecf7be902"
+}

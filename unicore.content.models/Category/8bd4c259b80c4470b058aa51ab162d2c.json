@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "8bd4c259b80c4470b058aa51ab162d2c", 
+  "language": "swa_TZ", 
+  "title": "VVU (Virusi Vinavyodhoofisha kinga ya mwili)", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.2.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "vvu-virusi-vinavyodhoofisha-kinga-ya-mwili", 
+  "source": "a6821e973bb74e08864a0395a5d5d850", 
+  "position": 0, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": "8bd4c259b80c4470b058aa51ab162d2c"
+}

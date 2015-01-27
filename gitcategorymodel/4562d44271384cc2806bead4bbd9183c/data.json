@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "subtitle": "", 
+        "language": "eng_UK", 
+        "title": "Child Development and Early Learning", 
+        "slug": "child-development-and-early-learning", 
+        "source": null, 
+        "featured_in_navbar": false, 
+        "id": "4562d44271384cc2806bead4bbd9183c"
+    }, 
+    "model": "GitCategoryModel"
+}

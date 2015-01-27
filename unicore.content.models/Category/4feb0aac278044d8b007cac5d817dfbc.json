@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "4feb0aac278044d8b007cac5d817dfbc", 
+  "language": "eng_GB", 
+  "title": "Timing Births", 
+  "image": null, 
+  "_version": {
+    "package_version": "0.2.2", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Dec 22 2013, 09:30:03) \n[GCC 4.2.1 Compatible Apple LLVM 5.0 (clang-500.2.79)]", 
+    "package": "elastic-git"
+  }, 
+  "slug": "timing-births", 
+  "source": null, 
+  "position": 15, 
+  "image_host": "http://qa.thumbor.unicore.io", 
+  "featured_in_navbar": true, 
+  "id": "4feb0aac278044d8b007cac5d817dfbc"
+}
